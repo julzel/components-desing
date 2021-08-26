@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+p, ul, ol, button {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    cursor: pointer;
+}
